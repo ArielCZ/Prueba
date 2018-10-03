@@ -6,4 +6,4 @@ _Esto es una primer prueba de un repositorio_
 
 edit ur face
 
-Editando la nueva branch patch-1 :v
+Editando la MASTER equisde :v
