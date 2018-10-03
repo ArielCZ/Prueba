@@ -2,4 +2,15 @@
 
 _Esto es una primer prueba de un repositorio_
 
-**Actualización del repositorio después de un fork.**
+
+![ITC Cuatrovientos](http://www.cuatrovientos.org/images/logo2.png)
+
+edit ur face
+
+
+Editando la nueva branch patch-1 :v
+
+**Reeditando claramente :v**
+_nani_
+
+
